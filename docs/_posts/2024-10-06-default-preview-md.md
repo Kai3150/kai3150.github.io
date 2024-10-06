@@ -5,7 +5,7 @@ date:   2024-10-06 06:26:07 +0000
 categories: vscode
 ---
 
-こちらの記事でも紹介されているように私がマークダウンをVScodeで開く時，99.999%はReadOnlyです．
+[こちら][参照]の記事でも紹介されているように私がマークダウンをVScodeで開く時，99.999%はReadOnlyです．
 
 そこでVScodeでデフォルトでmdファイルをプレビューモードで開く設定について紹介します．
 
@@ -32,3 +32,5 @@ categories: vscode
 
 
 参照： https://stackoverflow.com/questions/60155443/vscode-preview-markdown-by-default
+
+[参照]:https://stackoverflow.com/questions/60155443/vscode-preview-markdown-by-default
