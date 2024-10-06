@@ -4,7 +4,7 @@ title:  "【VScode】 .mdファイルをデフォルトでpreview表示する方
 date:   2024-10-06 06:26:07 +0000
 categories: vscode
 ---
-#how to preview md
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
