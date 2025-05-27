@@ -22,9 +22,9 @@ title: 特にタイトルはありません
 email: nono
 description: >- # this means to ignore newlines until "baseurl:"
   特になし
-domain: pages.github.io
+domain: kai3150.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://pages.github.io  # the base hostname and protocol for your site,
+url: https://kai3150.github.io  # the base hostname and protocol for your site,
 twitter_username: nobakai2016
 github_username:  Kai3150
 
