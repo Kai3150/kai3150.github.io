@@ -1,0 +1,26 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+.legal-links {
+  list-style: none;
+  margin: 0;
+  
+  li {
+    display: inline;
+    margin-right: 15px;
+    
+    a {
+      color: $text-color;
+      text-decoration: none;
+      font-size: 14px;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
